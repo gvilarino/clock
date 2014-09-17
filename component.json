@@ -12,7 +12,7 @@
     "code42day/bounds": "1.0.0",
     "code42day/dataset": "0.3.0",
     "code42day/el": "0.1.1",
-    "component/events": "1.0.6",
+    "component/events": "1.0.9",
     "component/classes": "1.2.1",
     "component/clone": "0.2.2",
     "component/domify": "1.2.2",
@@ -22,7 +22,7 @@
     "component/in-groups-of": "1.0.0"
   },
   "development": {
-    "code42day/aurora-clock": "*"
+    "code42day/aurora-clock": "master"
   },
   "license": "MIT",
   "scripts": [
