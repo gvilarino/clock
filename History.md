@@ -1,4 +1,9 @@
 
+1.2.1a / 2014-09-17
+==================
+
+ * Update compoent/event and aurora-clock versions
+
 1.2.1 / 2014-04-10
 ==================
 
